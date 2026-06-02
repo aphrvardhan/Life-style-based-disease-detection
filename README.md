@@ -2,6 +2,8 @@
 
 This repository contains the codebase for early cardiovascular risk prediction in young patients with Type 2 Diabetes Mellitus (T2DM). The project uses structured clinical, metabolic, and lifestyle data to train and evaluate various machine learning and deep learning models, focusing on TabNet for interpretable sequential attention.
 
+View comprehensive_model_comparison.ipynb for the final results.
+
 ## Project Structure
 
 The repository is organized into data preprocessing, model training notebooks, and evaluation scripts:
